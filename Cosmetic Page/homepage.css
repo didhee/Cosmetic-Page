@@ -1,0 +1,276 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: arial, helvetica, sans-serif;
+}
+
+ h4 {
+  font-family: arial;
+  font-size: 16px;
+  font-weight: 500;
+  text-align: center;
+  background-color: plum;
+  border-bottom: 1px solid plum;
+}
+
+h2 {
+  font-family: serif;
+  font-size: 30px;
+  text-align: center;
+  padding: 15px;
+  letter-spacing: 9.5px;
+  border-bottom: 1px solid lightgray;
+}
+
+nav .pull-left .wish {
+  width: 20px;
+  margin: 0 20px;
+}
+
+nav .pull-left .country {
+  width: 40px;
+  margin: 0 10px;
+}
+
+nav .pull-left {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+nav .center {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 10px;
+}
+
+nav .pull-right .search {
+  width: 21px;
+  margin: 0 20px;
+}
+
+nav .pull-right .sign-in {
+  width: 35px;
+  margin: 0 20px;
+}
+
+nav .pull-right .cart {
+  width: 25px;
+  margin: 0 20px;
+}
+
+nav .pull-right {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+nav {
+  margin: 15px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+nav .center a {
+  padding: 35px
+}
+
+nav .center a:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+h3 {
+  font-family: arial;
+  font-size: 20px;
+  font-weight: 200;
+  text-align: center;
+  color: black;
+  border-bottom: 1px solid lightgray;
+}
+
+.arrivals {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 180px 0;
+}
+figure .perfume {
+  width: 250px;
+  border: thin solid silver;
+}
+
+figure .loveR {
+  margin-left: 0;
+}
+
+figure .lipstick {
+  border: thin solid white;
+  width: 400px;
+}
+
+figure .lippie {
+  margin-left: 100px;
+}
+figure .powder {
+  border: thin solid white;
+  width: 200px;
+}
+
+figure .bare {
+  margin-left: 0;
+}
+
+ .shop-all {
+  width: 200px;
+  height: 40px;
+  margin-left: 680px;
+  margin-top: 50px;
+}
+
+.shop {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 180px 0;
+}
+
+figure .mini-perfs {
+  width: 250px;
+  border: thin solid white;
+}
+
+figure .perfs {
+margin-left: 0px;
+margin-top: 80px;
+}
+
+figure .perfs a:hover {
+  text-decoration: underline;
+  color: red;
+}
+
+figure .nono {
+  width: 250px;
+  border: thin solid white;
+}
+
+figure .nono1 {
+  text-align: center;
+}
+
+figure .nono1 a:hover {
+  text-decoration: underline;
+  color: red;
+}
+
+figure .shade-finder {
+  width: 250px;
+  border: thin solid white;
+}
+
+figure .shade-finder1 {
+  text-align: center;
+}
+
+figure .shade-finder1 a:hover {
+  text-decoration: underline;
+  color: red;
+}
+
+h5 {
+  font-family: serif;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 40px;
+  word-spacing: 8px;
+}
+
+p {
+  font-family: cursive;
+  text-align: center;
+}
+
+.button {
+  width: 200px;
+  height: 30px;
+  margin-left: 100px;
+  border-radius: 20px;
+  position: relative;
+  left: 1200px;
+  bottom: 37px;
+}
+
+.camera {
+  width: 20px;
+  opacity: 0.4;
+  position: relative;
+  right: 25px;
+  top: 4px;
+}
+
+.images {
+  display: flex;
+  justify-content: space-between;
+}
+figure .tag1 {
+  width: 200px;
+}
+
+figure .tag2 {
+  width: 200px;
+}
+
+figure .tag3 {
+  width: 250px;
+}
+
+figure .tag4 {
+  width: 265px;
+}
+
+figure .tag5 {
+  width: 200px;
+}
+
+figure .tag6 {
+  width: 215px;
+}
+
+figure .tag7 {
+  width: 200px;
+}
+
+figure .tag8 {
+  width: 267px;
+}
+
+figure .tag9 {
+  width: 260px;
+}
+
+figure .beautiful-people {
+  text-align: center;
+  font-family: serif;
+  font-size: 20px;
+}
+
+h6 {
+  font-family: monospace;
+  font-size: 20px;
+  border-top: 1px solid lightgray;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.links {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  margin-left: 20px;
+  padding: 0 20px 10px 0;
+}
+
+ .links a:hover {
+   text-decoration: underline;
+   color: red;
+ }
